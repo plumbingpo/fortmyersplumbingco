@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fortmyersplumbingco.com/sitemap.xml
